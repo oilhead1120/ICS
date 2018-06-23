@@ -551,7 +551,7 @@ a.menu__link {
 
 /*-- welcome--*/
 .w3l-welcome{
-	background:url('../images/CL.jpg') no-repeat fixed;
+	background:url('../images/cl.jpg') no-repeat fixed;
 	background-size: cover;
 	min-height: 398px;
 }
