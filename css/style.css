@@ -26,10 +26,10 @@ body{
  background:#fff;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 body p{
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 	
 ul ,ol {
@@ -179,7 +179,7 @@ a:focus, a:hover {
 a.menu__link {
     color: #fff !important;
     font-size: 15px;
-	font-family: 'Lato', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -205,7 +205,7 @@ a.menu__link {
     margin: 0 auto;
     padding: 10px 0;
     border-radius: 2px;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 	font-weight: 300;
     letter-spacing: 3px;
 }
@@ -215,7 +215,7 @@ a.menu__link {
     letter-spacing: 3px;
     padding: 16px 0px;
 	line-height: 52px;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 /* --//navigation --*/
 /*-- //Index-Page-Styling --*/
@@ -401,7 +401,7 @@ a.menu__link {
 .callbacks_tabs a:after {
 	content: "\f111";
 	font-size: 0;
-	font-family: FontAwesome;
+	font-family: "Noto Sans", "Noto Sans TC";
 	visibility: visible;
 	display: block;
 	width:0;
@@ -466,7 +466,7 @@ a.menu__link {
     font-size: 34px;
     letter-spacing: 2px;
     color: #fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 	font-weight: 400;
 }
 .team p {
@@ -569,7 +569,7 @@ a.menu__link {
     letter-spacing: 3px;
     color: #009bbb;
 	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 .text-w3 p {
     text-align: center;
@@ -634,7 +634,7 @@ a.menu__link {
     text-transform: uppercase;
     letter-spacing: 3px;
 	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 .gallery-grid {
   margin: 0em 0em 2em 0em;
@@ -730,7 +730,7 @@ figure.effect-bubba h4 {
 	transform: translate3d(0,-20px,0);
 	opacity:0;
 	color:#fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 	font-size: 1.5em;
 }
 figure.effect-bubba p {
@@ -747,7 +747,7 @@ figure.effect-bubba p {
 	-ms-transform: translate3d(0,20px,0);
 	transform: translate3d(0,20px,0);
 	color:#fff;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 	line-height: 1.5em;
 	font-size: 0.9em;
 }
@@ -834,7 +834,7 @@ span.simply-word {
     letter-spacing: 3px;
     color: #ce1126;
 	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Noto Sans", "Noto Sans TC";
 }
 .faculty-head  p {
     font-size: 16px;
